@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mitchparavisionai
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Python TensorFlows
+- 🌱 I’m currently learning Circle CI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mitch@paravision.ai
 
